@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5vO0zzY02UhZ0BSg4uLB3UbArZKyYFSUeIfYT/EUuhRMGnhzO2Ke1GKug0D/+eCN9hcpsUV2CXnSjdoNRMYeXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhonc\\source\\repos\\Project1\\Project1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhonc\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.12\\microsoft.aspnetcore.spaproxy.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

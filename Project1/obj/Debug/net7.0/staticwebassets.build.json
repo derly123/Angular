@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "wKBwVK0sJ+cG7kkspXNqXeJIYMozMkUnnlHXIBflALI=",
+  "Source": "Project1",
+  "BasePath": "_content/Project1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project1\\wwwroot",
+      "Source": "Project1",
+      "ContentRoot": "C:\\Users\\jhonc\\source\\repos\\Project1\\wwwroot\\",
+      "BasePath": "_content/Project1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jhonc\\source\\repos\\Project1\\wwwroot\\favicon.ico",
+      "SourceId": "Project1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jhonc\\source\\repos\\Project1\\wwwroot\\",
+      "BasePath": "_content/Project1",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

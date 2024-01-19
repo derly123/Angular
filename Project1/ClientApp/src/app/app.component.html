@@ -1,0 +1,9 @@
+<body>
+  <app-nav-menu></app-nav-menu>
+  <main class="container">
+
+    <router-outlet></router-outlet>
+  </main>
+  <app-gif-search (searchEvent)="onSearch($event)"></app-gif-search>
+  <app-gif-list [gifs]="gifs"></app-gif-list>
+</body>

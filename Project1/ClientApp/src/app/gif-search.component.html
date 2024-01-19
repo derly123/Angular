@@ -1,0 +1,11 @@
+<body>
+  <app-nav-menu></app-nav-menu>
+  <main class="container">
+
+    <router-outlet></router-outlet>
+  </main>
+  <div class="search-container">
+    <input type="text" [(ngModel)]="searchQuery" placeholder="Buscar GIFs">
+    <button (click)="search()">Buscar</button>
+  </div>
+</body>
